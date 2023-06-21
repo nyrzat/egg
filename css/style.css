@@ -24,8 +24,42 @@ li{
     margin: 0 auto;
     padding: 0 15px;
 }
+.block_cream{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    background: #FFFFFF;
+    border: 1px solid #F2F6FA;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 163px;
+}
 .Training_cosmetologists{
     font-size: 35px;
     text-align: center;
     color: #424242;
+    margin-bottom: 40px;
+}
+.img_kosmetolog{
+    width: 100%;
+}
+.cream_castle{
+    margin-bottom: 12px;
+    font-size: 24px;
+    color: #2E363E;
+    font-weight: 700;
+}
+.cream_text{
+    margin-bottom: 24px;
+}
+.cream_text2{
+    font-size: 24px;
+    color: #434B53;
+    margin-bottom: 40px;
+}
+.btn_cream{
+    font-size: 18px;
+    background: #FED84C;
+    border-radius: 8px;
+    padding: 20px 40px;
 }
